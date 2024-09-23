@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Save this as sp-add-new-uff in /usr/local/bin (or any location in your $PATH)
+# Ensure it is executable by running: chmod +x /usr/local/bin/sp-add-new-uff
+
+python3 ~/code/notes/uff/add_fff.py "$@"
